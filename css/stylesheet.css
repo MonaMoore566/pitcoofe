@@ -1,18 +1,18 @@
 @font-face{
     font-family: Propis;
-    src: url("../PitCoofe/Fonts/ofont.ru_1\ Amazone\ M.ttf");
+    src: url("../pitcoofe/Fonts/ofont.ru_1\ Amazone\ M.ttf");
 }
 @font-face{
     font-family: Zagalovok;
-    src: url("../PitCoofe/Fonts/ofont.ru_Zero\ 5.ttf");
+    src: url("../pitcoofe/Fonts/ofont.ru_Zero\ 5.ttf");
 }
 @font-face{
     font-family: Zagalovok1;
-    src: url("../PitCoofe/Fonts/ofont.ru_Czizh.ttf");
+    src: url("../pitcoofe/Fonts/ofont.ru_Czizh.ttf");
 }
 @font-face{
     font-family: prod;
-    src: url("../PitCoofe/Fonts/Impact\ Regular.ttf");
+    src: url("../pitcoofe/Fonts/Impact\ Regular.ttf");
 }
 body
 {
