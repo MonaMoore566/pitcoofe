@@ -1,0 +1,255 @@
+@font-face{
+    font-family: Propis;
+    src: url(../Fonts/ofont.ru_1\ Amazone\ M.ttf);
+}
+@font-face{
+    font-family: Zagalovok;
+    src: url(../Fonts/ofont.ru_Zero\ 5.ttf);
+}
+@font-face{
+    font-family: Zagalovok1;
+    src: url(../Fonts/ofont.ru_Czizh.ttf);
+}
+@font-face{
+    font-family: prod;
+    src: url(../Fonts/Impact\ Regular.ttf);
+}
+body
+{
+    background: #ffffff;
+    margin: 0;
+}
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+header{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0) 2%, rgba(0, 0, 0, 0.8) 99% ), url('../img/1674551186_catherineasquithgallery-com-p-temnii-fon-s-kofeinimi-zernami-11.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    width: 100%;
+    height: 1090px;
+}
+.blok-menu{
+    position: fixed;
+    right: 3%;
+    top: 1%;
+    list-style-type: none;
+    z-index: 10;
+}
+.menu{
+    display: flex;
+    justify-content: right;
+}
+.menu li 
+{
+    font-size: 17px;
+    list-style: none;
+    margin-right: 5px; /* Отступ слева */
+    margin-top: 1%;
+    padding: 10px; /* Поля вокруг текста */
+}
+.img2{
+    width: 25px;
+    height: 25px;
+    border: none;
+    background-size: cover;
+    padding-left: 25px;
+    padding-right: 10px;
+}
+.menu a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: zagalovok;
+}
+ul.menu{
+    margin: 0;
+    padding: 4px;
+}
+.img1{
+    width: 70px;
+    position: absolute;
+    top: 1%;
+    left: 3%;
+  }
+.zagalovok0{
+    text-align: center;
+    color: white;  
+    position: absolute;
+    top: 14%;
+    left: 30%;
+}
+.zagalovok0 h1{
+    font-family: Propis;
+    font-size: 220px;
+    text-shadow: 6px 6px 0px rgba(205, 200, 200, 0.4);
+}
+.zagalovok1{
+    text-align: center;
+    color: white;  
+    position: absolute;
+    top: 38%;
+    left: 43%; 
+}
+.zagalovok1 p{
+    font-family: Zagalovok1;
+    font-size: 80px;
+}
+main{
+    margin-top: 0;
+    position: relative;    
+    background:linear-gradient( to top, rgba(0,0,0,0) 10%, rgba(0,0,0,0.6)), url(../img/v666-sasi-17-coffeeday.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    width: 100%;
+    height: 1550px;
+}
+
+.zagalovok2{
+    position: absolute;
+    top: 40%;
+    left: 11%;  
+    color: rgb(0, 0, 0); 
+    font-family: zagalovok;
+}
+.zagalovok2 h2{
+    font-size: 80px;
+    margin: 0;
+}
+.zagalovok2 p{
+    font-size: 25px;
+    margin-top: 2%;
+}
+.img3{
+    position: absolute;
+    width: 50px;
+    top: 35%;
+    left: 44%;
+}
+.Text{
+    position: absolute;
+    top: 35%;
+    left: 47%; 
+    color: #000000;
+    font-family: zagalovok;
+}
+.Text h2{
+    margin: 0;
+    font-size: 25px;
+}
+.Text p{
+    font-size: 20px;
+    margin-top: 2%;
+}
+.img4{
+    position: absolute;
+    width: 50px;
+    top: 35%;
+    left: 69%;
+}
+.Text1{
+    position: absolute;
+    top: 35%;
+    left: 72%;  
+    color: #000000;
+    font-family: zagalovok;
+}
+.Text1 h2{
+    margin: 0;
+    font-size: 25px;
+}
+.Text1 p{
+    font-size: 20px;
+    margin-top: 2%;
+}
+.img5{
+    position: absolute;
+    width: 50px;
+    top: 53%;
+    left: 44%;
+}
+.Text2{
+    position: absolute;
+    top: 53%;
+    left: 47%;
+    color: #000000; 
+    font-family: zagalovok;
+}
+.Text2 h2{
+    margin: 0;
+    font-size: 25px;
+}
+.Text2 p{
+    font-size: 20px;
+    margin-top: 2%;
+}
+.img6{
+    position: absolute;
+    width: 50px;
+    top: 53%;
+    left: 69%;
+}
+.Text3{
+    position: absolute;
+    top: 53%;
+    left: 72%;
+    color: #000000;
+    font-family: zagalovok; 
+}
+.Text3 h2{
+    margin: 0;
+    font-size: 25px;
+}
+.Text3 p{
+    font-size: 20px;
+    margin-top: 2%;
+}
+.imdiv{
+    top: 1500px;
+    margin-top: 0;
+    position: relative;    
+    background:rgb(36,36,36) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    width: 100%;
+    height: 1350px;
+}
+.Prodykt{
+    position: absolute;
+    top: 1%;
+    left: 36%
+}
+.Prodykt h1{
+    color: #ffffff;
+    font-size: 140px;
+    opacity: .2;
+    font-family: prod;
+}
+.zitata{
+    color: rgb(255, 255, 255);
+}
+.zitata h2{
+    font-size: 35px;
+    font-family: zagalovok;
+    position: absolute;
+    left: 28%;
+    top: 20%;
+}
+.zitata p{
+    font-size: 25px;
+    font-family: zagalovok;
+    position: absolute;
+    left: 33%;
+    top: 25%;
+}
+
+
+
+
