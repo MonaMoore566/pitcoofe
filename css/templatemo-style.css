@@ -79,7 +79,12 @@ p {
     background-color: #eaf0ff;  
     text-align: center;
 }
-
+.cook-delecious{
+	background-color:#d8deed;
+}
+.services{
+	background-color: #d8deed;
+}
 .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
     text-shadow: none;
 }
