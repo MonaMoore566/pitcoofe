@@ -27,10 +27,12 @@ p {
 	font-size: 13px;
 	line-height: 24px;
 }
-
+.cook-content{
+	background-color: #9e8170;
+}
 .primary-button a {
 	display: inline-block;
-	background-color: #f2745f;
+	background-color: #9e8170;
 	color: #fff;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -44,7 +46,7 @@ p {
 .primary-white-button a {
 	display: inline-block;
 	background-color: #fff;
-	color: #f2745f;
+	color: #9e8170;
 	font-size: 13px;
 	text-transform: uppercase;
 	font-weight: 500;
@@ -134,11 +136,11 @@ p {
 }
 .navbar-inverse .navbar-toggle {
 	margin-top: 22px;
-    border-color: #f2745f;
-    background-color: #f2745f;
+    border-color: #9e8170;
+    background-color: #9e8170;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-	background-color: #f2745f;
+	background-color: #9e8170;
 }
 bootstrap.min.css:5
 .navbar-toggle {
@@ -216,7 +218,7 @@ section.cook-delecious {
 }
 
 .cook-delecious .cook-content {
-	background-color: #f2745f;
+	background-color: #9e8170;
 	text-align: center;
 	padding: 30px;
 }
@@ -232,7 +234,7 @@ section.cook-delecious {
 }
 
 .cook-content .contact-content {
-	background-color: #f3826f;
+	background-color: #9e8170;
 	padding: 20px 30px;
 }
 
@@ -263,7 +265,7 @@ section.cook-delecious {
 	text-transform: uppercase;
 	color: #fff;
 	letter-spacing: 1px;
-	border: 1px solid #da6856;
+	border: 1px solid #9e8170;
 	width: 25px;
 	height: 25px;
 	display: inline-block;
@@ -369,7 +371,7 @@ section#book-table .left-image img {
 .right-info button {
 	width: 100%;
 	display: inline-block;
-	background-color: #f2745f;
+	background-color: #9e8170;
 	color: #fff!important;
 	font-size: 13px;
 	text-transform: uppercase;
@@ -383,7 +385,7 @@ section#book-table .left-image img {
 
 
 section.get-app {
-	background-color: #f2745f;
+	background-color: #9e8170;
 	text-align: center;
 	padding: 60px 0px;
 }
@@ -440,7 +442,7 @@ section.featured-food {
 
 .food-item .price {
 	font-size: 17px;
-	color: #f2745f;
+	color: #9e8170;
 	font-weight: 500;
 	letter-spacing: 0.5px;
 	padding: 8px 14px;
@@ -516,7 +518,7 @@ section.our-blog {
 .blog-post .right-content .text-button a {
 	font-size: 13px;
 	font-weight: 500;
-	color: #f2745f;
+	color: #9e8170;
 	text-decoration: none;
 	text-transform: uppercase;
 	margin-top: 12px;
@@ -525,7 +527,7 @@ section.our-blog {
 
 .blog-post .date {
 	font-size: 17px;
-	color: #f2745f;
+	color: #9e8170;
 	font-weight: 500;
 	letter-spacing: 0.5px;
 	padding: 8px 14px;
@@ -600,7 +602,7 @@ footer p {
 
 footer p em {
 	font-style: normal;
-	color: #f2745f;
+	color: #9e8170;
 	font-weight: 500;
 }
 
@@ -628,7 +630,7 @@ footer ul li i {
 }
 
 footer ul li i:hover {
-	background-color: #f2745f;	
+	background-color: #9e8170;	
 }
 
 
@@ -797,7 +799,7 @@ section.dinner-menu .price {
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
-  background: #f2745f;
+  background: #9e8170;
 }
 
 
@@ -822,7 +824,7 @@ section.blog-page .page-number li {
 }
 
 section.blog-page .page-number li.active a {
-	background-color: #f2745f;
+	background-color: #9e8170;
 	color: #fff;
 }
 
@@ -841,7 +843,7 @@ section.blog-page .page-number li a {
 }
 
 section.blog-page .page-number li a:hover {
-	background-color: #f2745f;
+	background-color: #9e8170;
 	color: #fff;
 }
 
@@ -878,7 +880,7 @@ section.blog-page .page-number li a:hover {
 .blog-item .down-content .text-button a {
 	font-size: 13px;
 	font-weight: 500;
-	color: #f2745f;
+	color: #9e8170;
 	text-decoration: none;
 	text-transform: uppercase;
 	margin-top: 12px;
@@ -887,7 +889,7 @@ section.blog-page .page-number li a:hover {
 
 .blog-item .date {
 	font-size: 17px;
-	color: #f2745f;
+	color: #9e8170;
 	font-weight: 500;
 	letter-spacing: 0.5px;
 	padding: 8px 14px;
@@ -959,7 +961,7 @@ section.contact-us {
 .contact-us button {
 	width: 100%;
 	display: inline-block;
-	background-color: #f2745f;
+	background-color: #9e8170;
 	color: #fff!important;
 	font-size: 13px;
 	text-transform: uppercase;
