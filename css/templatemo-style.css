@@ -547,7 +547,7 @@ section.our-blog {
 
 section.sign-up {
 	padding: 80px 0px;
-	background-image: url(../img/signup-bg.jpg);
+	background-image: url(../img/SMaison_Starbucks_Philippines_5.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -641,9 +641,10 @@ footer ul li i:hover {
 
 
 
+
 section.page-heading {
 	padding: 80px 0px;
-	background-image: url(../img/heading-bg.jpg);
+	background-image: url(../img/AdobeStock_221043104-scaled.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -667,6 +668,56 @@ section.page-heading {
 	margin-bottom: 0px;
 }
 
+section.page-heading1 {
+	padding: 80px 0px;
+	background-image: url(../img/3ae69172e6bbf8b685fed9c465284d13.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	text-align: center; 
+}
+
+.page-heading1 h1 {
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-family: 'Spectral', serif;
+	font-size: 48px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.page-heading1 p {
+	color: #fff;
+	font-size: 14px;
+	padding: 0px 25%;
+	margin-bottom: 0px;
+}
+section.page-heading2 {
+	padding: 80px 0px;
+	background-image: url(../img/1674563957_catherineasquithgallery-com-p-kofeinii-fon-148.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	text-align: center; 
+}
+
+.page-heading2 h1 {
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-family: 'Spectral', serif;
+	font-size: 48px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.page-heading2 p {
+	color: #fff;
+	font-size: 14px;
+	padding: 0px 25%;
+	margin-bottom: 0px;
+}
 
 
 
